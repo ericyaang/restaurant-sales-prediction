@@ -7,7 +7,7 @@ Este repositório é um protótipo inicial de um modelo de prever as vendas de u
 
 ## Quick Start
 
-`demo_quick_start_notebook.ipynb` é um tutorial mostrando todas as etapas de feature engioeering, criação e avaliação do modelo.
+`demo_quick_start_notebook.ipynb` é um tutorial mostrando todas as etapas de feature engineering, criação e avaliação do modelo.
 
 ## Requirements
 
